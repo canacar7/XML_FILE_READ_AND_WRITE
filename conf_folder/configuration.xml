@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<DDS_Parameters>
+    <Parameters>
+        <DomainID DomainID="42" />
+        <TopicName Topc1="Heartbeat" />
+    </Parameters>
+</DDS_Parameters>
